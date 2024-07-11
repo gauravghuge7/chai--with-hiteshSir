@@ -1,0 +1,6 @@
+/*  tailwind css integrated */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
